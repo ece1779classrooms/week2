@@ -1,11 +1,15 @@
+# Question 4
 # DO NOT USE THE WORD input ANYWHERE!
 
 # We provide class Rectangle and starter code for class RectangleCollection.
 
-# Complete class RectangleCollection, which has one list instance variable, rectangles, that should initially refer to an empty list. Write a method add_rectangle that takes a Rectangle as a parameter and appends it to the rectangles list. Write a method get_same_area_rects that takes a number as a parameter and returns a list of all Rectangles from the rectangles list that have that area.
+# Complete class RectangleCollection, which has one list instance variable, rectangles,
+# that should initially refer to an empty list. Write a method add_rectangle that takes a Rectangle as a parameter and appends it to the rectangles list.
+# Write a method get_same_area_rects that takes a number as a parameter and returns a list of all Rectangles from the rectangles list that have that area.
 
 
 from typing import List
+
 
 class Rectangle:
     """ A rectangle with a width and height. """

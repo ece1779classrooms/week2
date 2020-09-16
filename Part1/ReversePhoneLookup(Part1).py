@@ -1,4 +1,6 @@
-# You have been asked to write a function that supplies the "reverse lookup" name for the person associated with a phone number. This means that given a phone number, you get the name of the person
+# Question 3
+# You have been asked to write a function that supplies the "reverse lookup" name for the person associated with a phone number.
+# This means that given a phone number, you get the name of the person
 # who is registered with that phone number. Write this function using parallel lists.
 
 

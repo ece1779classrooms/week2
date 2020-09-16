@@ -1,5 +1,6 @@
-# SpecialList is a class that has two instance variables value_list and size. value_list refers to a list, and size stores an integer representing the maximum number of items that can be stored in the list.
-
+# Question 3
+# SpecialList is a class that has two instance variables value_list and size. value_list refers to a list,
+# and size stores an integer representing the maximum number of items that can be stored in the list.
 
 
 class SpecialList:
@@ -16,7 +17,6 @@ class SpecialList:
         # """
         # # complete this code
 
-
     def push_value(self, new_value: object) -> None:
         # """Append new_value to this list, if there is enough space in the list
         # according to its maximum size. If there is insufficient space, new_value
@@ -30,7 +30,6 @@ class SpecialList:
         # [3, 4]
         # """
         # # complete this code
-
 
     def pop_most_recent_value(self) -> object:
         # """Return the value added most recently to value_list and remove it from
@@ -47,7 +46,6 @@ class SpecialList:
         # 4
         # """
         # # complete this code
-
 
     def compare(self, other: "SpecialList") -> int:
         # """Return 0 if both SpecialList objects contain the same number
