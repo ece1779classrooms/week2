@@ -1,2 +1,2 @@
 # week2
-wwek tutorial materials
+Week 2 tutorial materials
